@@ -4,8 +4,6 @@ A small CHIP-8 emulator written in Rust.
 
 <img width="835" height="492" alt="image" src="https://github.com/user-attachments/assets/93bbd57e-e90e-4304-b077-43aff99c2be2" />
 
-<img width="835" height="492" alt="image" src="https://github.com/user-attachments/assets/2c2ac32d-c2b6-44ee-98d5-2d229408399f" />
-
 ## Requirements
 
 Install Rust from <https://rustup.rs/>.
